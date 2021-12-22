@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": " Just a school activity.",
+    "githubUrl": "https://github.com/jonelskie/SimpleWeightConverter/tree/main"
   }
 }
